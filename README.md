@@ -67,10 +67,10 @@ cd Applied-Data-Science-Capstone
 ```
 ## Appendix
 
-- **Data Preprocessing:** See `notebooks/1-EDA-and-Preprocessing.ipynb`.
-- **SQL Queries:** SQL queries for data exploration are included in `notebooks/2-SQL-Queries.ipynb`.
-- **Machine Learning:** Detailed ML modeling is in `notebooks/3-ML-Modeling.ipynb`.
-- **Dashboard Code:** The dashboard source code is in `dashboard/app.py`.
+- **Data Preprocessing:** See `Notebooks/labs-jupyter-spacex-Data wrangling.ipynb`.
+- **SQL Queries:** SQL queries for data exploration are included in `Notebooks/jupyter-labs-eda-sql-coursera_sqllite.ipynb`and `Notebooks/edadataviz.ipynb`.
+- **Machine Learning:** Detailed ML modeling is in `Notebooks/SpaceX_Machine Learning Prediction_Part_5.ipynb`.
+- **Dashboard Code:** The dashboard source code is in `Dashboard/spacex_dash_app.py`.
 
 ---
 
