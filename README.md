@@ -34,7 +34,6 @@ The dataset used in this project is sourced from the SpaceX API and includes:
 - Booster configurations and versions.
 - Launch success and rocket landing outcomes.
 
----
 
 ---
 
